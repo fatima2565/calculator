@@ -1,0 +1,36 @@
+.container{
+    width :100%;
+ margin: 0;
+  padding: 0;
+ box-sizing: border-box ;
+}
+ 
+.A{
+    text-align: center;
+}
+
+.main{
+ border: 2px solid rgb(83, 81, 81);
+ width: 247px;
+margin: 0 auto; background-color: rgb(175, 181, 187);
+
+}
+.result{
+    background-color:rgb(237, 238, 240);
+    color:rgb(255, 255, 255);
+    width: 197px;
+    margin: 1px;
+   border-radius: 50px;
+}
+
+.clearBtn{
+    width: 245px; 
+    margin: 1px;
+    background-color: rgb(146, 165, 197);
+    border-radius: 40px;
+}
+.btn{
+background-color: rgb(148, 161, 184);
+width :49.4px;
+margin: 4.3px;
+border-radius: 40px;
